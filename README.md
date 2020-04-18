@@ -17,12 +17,6 @@ An HSL(a) color picker with React, but this time using React Hooks
 - [HOOKS](https://reactjs.org/docs/hooks-intro.html)
 - [REACT INLINE STYLES](https://reactjs.org/docs/dom-elements.html#style)
 
-## Live Site
-
-[LIVE SITE](https://color-picker-with-hooks-austinparvin.netlify.app/)
-
-![Color Picker With Hooks](http://g.recordit.co/0BXlRohu6z.gif)
-
 ## Featured Code
 
 ### setState Tracking Functions
@@ -42,4 +36,12 @@ const trackHue = (e) => {
     setAlpha(parseInt(e.target.value))
   }
  ```
+ 
+## Live Site
+
+[LIVE SITE](https://color-picker-with-hooks-austinparvin.netlify.app/)
+
+![Color Picker With Hooks](http://g.recordit.co/0BXlRohu6z.gif)
+
+
  
