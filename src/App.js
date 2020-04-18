@@ -30,7 +30,7 @@ const App = () => {
     setSaturation(parseInt(e.target.value))
   }
   const trackLightness = (e) => {
-    setSaturation(parseInt(e.target.value))
+    setLightness(parseInt(e.target.value))
   }
   const trackAlpha = (e) => {
     setAlpha(parseInt(e.target.value))
